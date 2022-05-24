@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: palevioletred;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px auto;
+    width: 80%;
+    border: 1px solid;
+}
+.container > h1, .container > p {
+    margin-bottom: 12px;
+}
+
+button {
+    margin-bottom: 5px;
+    color: #fff;
+    background-color: palevioletred ;
+    font-weight: bold;
+    border-radius: 50%;
+    width: 20px;
+}
