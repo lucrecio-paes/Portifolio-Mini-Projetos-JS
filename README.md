@@ -11,5 +11,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Contador Simples
 - [x] catAPI
+- [x] Light Mode/Dark Mode
 - [ ] TODO LIST
 - [ ] Indefinido
