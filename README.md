@@ -9,8 +9,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 
-- [ ] Criar Portal com cards linkando para projetos
 - [x] Contador Simples
+- [x] catAPI
 - [ ] TODO LIST
-- [ ] Indefinido
 - [ ] Indefinido
